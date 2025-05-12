@@ -1,5 +1,8 @@
 # Multi-Agent Large Language Model Framework for Code-Complying Design Automation of Reinforced Concrete Structures
-![graphic abstract](https://github.com/user-attachments/assets/1d9b0786-863a-4a83-914d-9324ff40a32c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d9b0786-863a-4a83-914d-9324ff40a32c" width="600" alt="graphic abstract">
+</p>
+
 
 This repository contains supplementary materials, including a GUI demonstration, for the paper titled "Multi-Agent Large Language Model Framework for Code-Complying Design Automation of Reinforced Concrete Structures."
 
