@@ -10,9 +10,6 @@ The current manual approach to designing reinforced concrete, guided by structur
 
 A video demonstration illustrating the functionality and user interaction with the GUI prototype is available here:
 
-**(Link to be added once video is uploaded - e.g., link to video file within this repository, or an external link to YouTube/Vimeo)**
-
-* *Placeholder for Video Link: `[Watch the GUI Demonstration Video](YOUR_VIDEO_LINK_HERE)`*
 
 The GUI showcases:
 * Inputting design or evaluation queries using natural language and OCR-enhanced image uploads.
