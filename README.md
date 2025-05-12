@@ -30,7 +30,7 @@ A video demonstration illustrating the functionality and user interaction with t
 ![Animation](https://github.com/user-attachments/assets/99d7f422-15d6-4dee-8819-1b4cc56679b1)
 
 The GUI showcases:
-* Inputting design or evaluation queries using natural language and OCR-enhanced image uploads.
+* Inputting design or evaluation queries using natural language.
 * The "Tool Execution Status" panel indicating completed analysis steps.
 * The "Key Takeaways and Recommendations" section presenting design decisions.
 * Interaction with the "Further Inquiries" tab for design refinement and follow-up questions.
