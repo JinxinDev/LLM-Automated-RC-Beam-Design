@@ -33,18 +33,11 @@ The core of this framework is a multi-agent system where specialized LLM agents 
 
 The system emphasizes transparency, verifiability, and adherence to design codes (specifically ACI 318-19 for the current beam design case studies).
 
-## Citing this Work
-
-If you use or refer to this framework or its demonstration in your research, please cite the original paper:
-
-Chen, J., & Bao, Y. (Year of Publication). Multi-Agent Large Language Model Framework for Code-Complying Design Automation of Reinforced Concrete Structures. *Automation in Construction* (Update with actual publication details once available).
-*Manuscript ID: AUTCON-D-25-01116R1*
-
 ## Repository Contents (Example Structure)
 
 * `/README.md` - This file.
 * `/gui_demonstration/`
-    * `gui_demo_video.mp4` (Or link to external host)
+    * `gui_demo_video.gif`
 * `/supplementary_materials/` (Optional: for additional figures, detailed walkthroughs, etc.)
 
 ---
