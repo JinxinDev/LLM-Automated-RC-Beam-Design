@@ -22,6 +22,7 @@ The GUI showcases:
 * The "Save Design Case to Database" feature.
 
 ## About the Framework
+![framework](https://github.com/user-attachments/assets/90b640d3-c43b-4831-b23a-184083143610)
 
 The core of this framework is a multi-agent system where specialized LLM agents handle distinct aspects of the structural design process:
 * **Task Dispatcher Agent:** Processes user queries (text and image) and routes them.
