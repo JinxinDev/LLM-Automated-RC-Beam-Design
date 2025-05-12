@@ -1,4 +1,5 @@
 # Multi-Agent Large Language Model Framework for Code-Complying Design Automation of Reinforced Concrete Structures
+![graphic abstract](https://github.com/user-attachments/assets/1d9b0786-863a-4a83-914d-9324ff40a32c)
 
 This repository contains supplementary materials, including a GUI demonstration, for the paper titled "Multi-Agent Large Language Model Framework for Code-Complying Design Automation of Reinforced Concrete Structures."
 
@@ -30,14 +31,5 @@ The core of this framework is a multi-agent system where specialized LLM agents 
 * **Expert Consultation Agent:** Facilitates follow-up interactions and design refinements.
 
 The system emphasizes transparency, verifiability, and adherence to design codes (specifically ACI 318-19 for the current beam design case studies).
-
-## Repository Contents (Example Structure)
-
-* `/README.md` - This file.
-* `/gui_demonstration/`
-    * `gui_demo_video.gif`
-* `/supplementary_materials/` (Optional: for additional figures, detailed walkthroughs, etc.)
-
----
 
 *This README provides a general overview. Please refer to the full manuscript for detailed methodology, case studies, and discussion.*
